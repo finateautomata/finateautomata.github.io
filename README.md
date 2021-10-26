@@ -1,6 +1,7 @@
-VERSION: 1.1.1
+VERSION: 1.1.1\
 Decrease picture resolutions
-VERSION: 1.1
+
+VERSION: 1.1\
 Add pictures
 Change the descriptive file to markdown
 
