@@ -1,5 +1,8 @@
+VERSION: 1.2.1\
+Add 四姑娘山.html
+
 VERSION: 1.2.0\
-Add 大研古镇 page
+Add 大研古镇.html
 
 VERSION: 1.1.1\
 Decrease picture resolutions
