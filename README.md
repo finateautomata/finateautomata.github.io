@@ -1,3 +1,6 @@
+VERSION: 1.2.0\
+Add 大研古镇 page
+
 VERSION: 1.1.1\
 Decrease picture resolutions
 
