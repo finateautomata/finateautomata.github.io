@@ -1,3 +1,6 @@
+VERSION: 1.2.2\
+Add 故宫 .html
+
 VERSION: 1.2.1\
 Add 四姑娘山.html
 
