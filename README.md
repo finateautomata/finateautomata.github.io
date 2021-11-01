@@ -1,3 +1,6 @@
+VERSION: 1.2.3\
+Add Cuba.html
+
 VERSION: 1.2.2.1\
 Modify 四姑娘山.html
 
