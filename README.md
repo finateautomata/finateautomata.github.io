@@ -1,4 +1,7 @@
 VERSION: 1.2.4\
+Add SanDiegoZoo.html, rearrange the subpage folder
+
+VERSION: 1.2.4\
 Add The Great Smokey Mountains.html, 烟台.html, 他念他翁.html
 
 VERSION: 1.2.3\
