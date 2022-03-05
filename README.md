@@ -1,4 +1,4 @@
-VERSION: 1.3.4\
+VERSION: 1.3.0\
 Add SanDiegoZoo.html, rearrange the subpage folder
 
 VERSION: 1.2.4\
